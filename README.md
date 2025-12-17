@@ -80,19 +80,19 @@ Screens included in this case study:
 ## UI Screens
 
 ### Home / Dashboard
-![Home](design/home.png)
+![Home](design/Home.png)
 
 ### Transactions
-![Transactions](design/transactions.png)
+![Transactions](design/Transactions.png)
 
 ### Categories
-![Categories](design/categories.png)
+![Categories](design/Categories.png)
 
 ### Monthly Summary
-![Summary](design/summary.png)
+![Summary](design/Summary.png)
 
 ### Profile
-![Profile](design/profile.png)
+![Profile](design/Profile.png)
 
 ---
 
