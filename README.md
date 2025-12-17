@@ -74,7 +74,7 @@ Set Budget & Goals → View Monthly Insights
 
 ## Key Screens
 Figma design link:
-👉 **[Add your Figma link here]**
+👉 **(https://www.figma.com/design/piVFEbfVh021GgKt8M7nWA/AI-BUDGET-APP?node-id=0-1&t=3WkObh5t1nV1QR7m-1)**
 
 Screens included in this case study:
 ## UI Screens
