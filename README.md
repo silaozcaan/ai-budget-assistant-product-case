@@ -77,11 +77,22 @@ Figma design link:
 👉 **[Add your Figma link here]**
 
 Screens included in this case study:
-- Home / Dashboard
-- Transactions
-- Categories
-- Monthly Summary
-- Profile
+## UI Screens
+
+### Home / Dashboard
+![Home](design/home.png)
+
+### Transactions
+![Transactions](design/transactions.png)
+
+### Categories
+![Categories](design/categories.png)
+
+### Monthly Summary
+![Summary](design/summary.png)
+
+### Profile
+![Profile](design/profile.png)
 
 ---
 
